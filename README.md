@@ -2,7 +2,7 @@
 
 
 
-### About Me 🙃
+# About Me 🙃
 
 - 📚 I'm an [@Epitech](https://epitech.eu) student
 - 📍 I live in Lyon
